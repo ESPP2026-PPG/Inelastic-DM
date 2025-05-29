@@ -2,12 +2,13 @@
 
 ## The model
 
-This is the model of dark photons $A$ coupled to a dark matter candidate $\chi$ and a heavier state $\chi'$. The Lagrangian is (see, e.g., https://arxiv.org/pdf/1908.07525)
+This is the model of dark photons $A$ coupled to a dark matter candidate $\chi$ and a heavier state $\chi'$. The interaction Lagrangian of the model is (see, e.g., https://arxiv.org/pdf/1908.07525)
 
-$$
-`\mathcal{L} = -\frac{\epsilon}{2\cos(\theta_{W})}V_{\mu\nu}B^{\mu\nu} + g_{D}V^{\mu}\bar{\chi}'\gamma_{\mu}\chi + \text{h.c.}`
-$$
+$
+`\mathcal{L} = -\frac{\epsilon}{2\cos(\theta_{W})}V_{\mu\nu}B^{\mu\nu} + g_{D}V^{\mu}\bar{\chi}'\gamma_{\mu}\chi + \text{h.c.},`
+$
 
+where `V_{\mu\nu}` is the dark photon field strength, $B^{\mu\nu}$ is the $`U(1)_{Y}` field strength.
 
 The non-zero mass splitting between $\chi,\chi'$ allows to escape the direct detection constraints. 
 
