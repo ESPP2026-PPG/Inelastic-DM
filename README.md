@@ -6,9 +6,9 @@ This is the model of dark photons $A$ coupled to a dark matter candidate $\chi$ 
 
 $`\mathcal{L} = -\frac{\epsilon}{2\cos(\theta_{W})}V_{\mu\nu}B^{\mu\nu} + g_{D}V^{\mu}\bar{\chi}'\gamma_{\mu}\chi + \text{h.c.},`$
 
-where `V_{\mu\nu}` is the dark photon field strength, $B^{\mu\nu}$ is the $`U(1)_{Y}` field strength.
+where $`V_{\mu\nu}`$ is the dark photon field strength, and $`B^{\mu\nu}`$ is the $`U(1)_{Y}`$ field strength.
 
-The non-zero mass splitting between $\chi,\chi'$ allows to escape the direct detection constraints. 
+The non-zero mass splitting between $`\chi,\chi'`$ allows to escape the direct detection constraints. 
 
 The model's parameters are $`m_{V},m_{\chi}, \alpha_{D}, \epsilon, \Delta`$, where $m$ are masses, $\alpha_{D} = g_{D}^{2}/4\pi$, $\epsilon$ controls dark photon coupling to the SM, and $`\Delta = (m_{\chi'}-m_{\chi})/m_{\chi}`$. To show 2D plots with parameter space, $\alpha_{D}$, $m_{\chi}/m_{V}$, and $\Delta$ get fixed; their values are chosen in a way such that dark photon predominantly decays into $\chi\chi'$ psirs. The commonly considered choice is $\alpha_{D} = 0.1$ (subject to a simple rescale) and $m_{\chi} = m_{A}/3$. For $\Delta$, the collected curves assume $\Delta = 0.1$. Results may significantly vary depending on $\Delta$. 
 
