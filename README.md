@@ -10,7 +10,7 @@ where $`V_{\mu\nu}`$ is the dark photon field strength, and $`B^{\mu\nu}`$ is th
 
 The non-zero mass splitting between $`\chi,\chi'`$ allows to escape the direct detection constraints. The main signatures are "invisible" events like $`e^{+}e^{-}\to \gamma+\text{inv}`$ at Belle II and displaced decays $`\chi' \to \chi + \text{SM}`$ at beam dump and collider-based experiments.
 
-The model's parameters are $`m_{V},m_{\chi}, \alpha_{D}, \epsilon, \Delta`$, where $`\alpha_{D} = g_{D}^{2}/4\pi`$ and $`\Delta = (m_{\chi'}-m_{\chi})/m_{\chi}`$. To show 2D plots with parameter space, $`\alpha_{D}`$, $`m_{\chi}/m_{V}`$, and $`\Delta`$ are fixed; their values are chosen in a way such that dark photon predominantly decays into a $`\chi\chi'`$ pair. The commonly considered choice is $`\alpha_{D} = 0.1`$ (subject to a simple rescale) and $`m_{\chi} = m_{A}/3`$. For $`\Delta`$, the collected curves assume $`\Delta = 0.1`$. 
+The model's parameters are $`m_{V},m_{\chi}, \alpha_{D}, \epsilon, \Delta`$, where $`\alpha_{D} = g_{D}^{2}/4\pi`$ and $`\Delta \equiv (m_{\chi'}-m_{\chi})/m_{\chi}`$. To show 2D plots with parameter space, $`\alpha_{D}`$, $`m_{\chi}/m_{V}`$, and $`\Delta`$ are fixed; their values are chosen in a way such that dark photon predominantly decays into a $`\chi\chi'`$ pair. The commonly considered choice is $`\alpha_{D} = 0.1`$ (subject to a simple rescale) and $`m_{\chi} = m_{A}/3`$. For $`\Delta`$, the collected curves assume $`\Delta = 0.1`$. 
 
 For the beam-dump and collider-based experiments, results may significantly vary depending on $`\Delta`$ (as the decay width of $`\chi'`$ scales with $`\Delta^{5}`$). 
 
